@@ -1,4 +1,4 @@
-# Comment installer nouvelle Node 
+# Comment upload des fichiers via le SFTP:
 
 1) Connecte à **WinSCP,**
 
